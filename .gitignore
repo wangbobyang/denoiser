@@ -1,5 +1,5 @@
 # Trained model checkpoints
-*.pt.tar
+*.pt*.tar
 
 # Python cache files
 __pycache__/
