@@ -10,3 +10,6 @@ __pycache__/
 venv/
 .vscode/
 .idea/
+
+# Local evaluation script
+eval_compare.py
