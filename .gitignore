@@ -13,3 +13,4 @@ venv/
 
 # Local evaluation script
 eval_compare.py
+plot_loss_from_log.py
