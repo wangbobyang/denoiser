@@ -24,14 +24,6 @@ python trainnew_blue.py --gpus 0 --epochs 50 --checkpoint <checkpoint_dir> --bat
 
 The command recorded in `train_blue.sh` shows the configuration used for the final run. Dataset and checkpoint paths are machine-specific and must be replaced with local paths.
 
-## Evaluation and comparison
-
-Use `eval_compare.py` to compare checkpoints and generate enhanced audio:
-
-```bash
-python eval_compare.py --checkpoint1 <baseline_checkpoint> --checkpoint2 <temporal_gate_checkpoint>
-```
-
 ## Final result
 
 The training-loss curve from the final experiment is included below.
