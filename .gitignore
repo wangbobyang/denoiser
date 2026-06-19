@@ -1,0 +1,12 @@
+# Trained model checkpoints
+*.pt.tar
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local environments and editor metadata
+.venv/
+venv/
+.vscode/
+.idea/
